@@ -1,3 +1,5 @@
+A simple budgeting app built using React.js + Vite with features to add, delete, and view budgets along with expenses.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
